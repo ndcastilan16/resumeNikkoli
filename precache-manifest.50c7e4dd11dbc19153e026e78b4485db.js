@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aa889c07ed38e2740ebcc2f3461fee95",
+    "revision": "500bac8df9b381e12c73ac46e947e7f8",
     "url": "/resumeNikkoli/index.html"
   },
   {
-    "revision": "3344c7eddf192d396657",
+    "revision": "8f109b748ee4e528b995",
     "url": "/resumeNikkoli/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/resumeNikkoli/static/js/2.1d5a028e.chunk.js.LICENSE"
   },
   {
-    "revision": "3344c7eddf192d396657",
-    "url": "/resumeNikkoli/static/js/main.515c5779.chunk.js"
+    "revision": "8f109b748ee4e528b995",
+    "url": "/resumeNikkoli/static/js/main.a6c2de19.chunk.js"
   },
   {
     "revision": "687f4961fe87b1df4a3f",

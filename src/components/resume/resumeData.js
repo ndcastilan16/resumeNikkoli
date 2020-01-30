@@ -1,5 +1,5 @@
 let resumeData = {
-    "imagebaseurl":"resume-niks",
+    "imagebaseurl":"resumeNiks",
     "name": "Nikkoli Castilan",
     "role": "Frontend Developer"
     }

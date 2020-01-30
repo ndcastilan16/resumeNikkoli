@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/resumeNikkoli/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/resumeNikkoli/static/js/main.52d4d4f6.chunk.js",
+    "main.js.map": "/resumeNikkoli/static/js/main.52d4d4f6.chunk.js.map",
+    "runtime-main.js": "/resumeNikkoli/static/js/runtime-main.84eee769.js",
+    "runtime-main.js.map": "/resumeNikkoli/static/js/runtime-main.84eee769.js.map",
+    "static/js/2.1d5a028e.chunk.js": "/resumeNikkoli/static/js/2.1d5a028e.chunk.js",
+    "static/js/2.1d5a028e.chunk.js.map": "/resumeNikkoli/static/js/2.1d5a028e.chunk.js.map",
+    "index.html": "/resumeNikkoli/index.html",
+    "precache-manifest.b901d7062938cb621c312eaf6397b34a.js": "/resumeNikkoli/precache-manifest.b901d7062938cb621c312eaf6397b34a.js",
+    "service-worker.js": "/resumeNikkoli/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/resumeNikkoli/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.1d5a028e.chunk.js.LICENSE": "/resumeNikkoli/static/js/2.1d5a028e.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84eee769.js",
+    "static/js/2.1d5a028e.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.52d4d4f6.chunk.js"
+  ]
+}

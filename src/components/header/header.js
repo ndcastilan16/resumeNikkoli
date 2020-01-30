@@ -27,6 +27,11 @@ export default class Header extends Component {
                   Resume
                 </a>
               </li>
+              <li>
+                <a className="smoothscroll" href="#portfolio">
+                  Technical Skills
+                </a>
+              </li>
             </ul>{" "}
             {/* end #nav */}
           </nav>{" "}

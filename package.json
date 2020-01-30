@@ -1,7 +1,7 @@
 {
   "name": "resume",
   "version": "0.1.0",
-  "homepage": "http://ndcastilan16.github.io/resumeNikkoli",
+  "homepage": "https://ndcastilan16.github.io/resumeNikkoli/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",

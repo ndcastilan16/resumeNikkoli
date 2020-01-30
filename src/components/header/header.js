@@ -32,7 +32,8 @@ export default class Header extends Component {
                   Technical Skills
                 </a>
               </li>
-            </ul>{" "}
+            </ul>
+            {"  "}
             {/* end #nav */}
           </nav>{" "}
           {/* end #nav-wrap */}
